@@ -11,6 +11,14 @@ Este projeto é uma landing page moderna, responsiva e conectada ao Firebase, cr
   - [x] Notificação por e-mail
 - ⚡ Deploy via Firebase Hosting
 
+## 🎥 Demonstração em Vídeo
+
+<video width="100%" controls>
+  <source src="videoweb.mp4" type="video/mp4">
+  Seu navegador não suporta a exibição de vídeo.
+</video>
+
+
 ---
 
 ## 📸 Imagens do Projeto
