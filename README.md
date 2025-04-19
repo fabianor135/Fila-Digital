@@ -13,13 +13,10 @@ Este projeto é uma landing page moderna, responsiva e conectada ao Firebase, cr
 
 ## 🎥 Demonstração em Vídeo
 
-<video width="100%" controls>
-  <source src="videoweb.mp4" type="video/mp4">
-  Seu navegador não suporta a exibição de vídeo.
-</video>
-
+![video](https://github.com/user-attachments/assets/d93895c0-2c88-40e1-92d3-653bb92f32f3)
 
 ---
+
 
 ## 📸 Imagens do Projeto
 
