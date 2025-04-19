@@ -20,7 +20,8 @@ Este projeto é uma landing page moderna, responsiva e conectada ao Firebase, cr
 
 
 ### 📱 Versão Mobile
-![Tela Mobile](./assets/tela-mobile.png)
+![Tela Mobile](https://github.com/user-attachments/assets/4e79025a-e3f6-4dd4-92fc-b7c9820913b8)
+
 
 ---
 
