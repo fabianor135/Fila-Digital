@@ -39,7 +39,9 @@ Este projeto é uma landing page moderna, responsiva e conectada ao Firebase, cr
 ├── videoweb.mp4         # Demonstração em vídeo
 
 🔐 Licença
-© 2025 Fabiano Rodrigues Leite. Todos os direitos reservados.
+                                            © 2025 Fabiano Rodrigues Leite. Todos os direitos reservados.
 Este repositório é destinado exclusivamente para fins educacionais e de visualização.
 Qualquer uso indevido, redistribuição ou modificação sem autorização será considerado violação dos direitos autorais.
+
+💬 Para permissões especiais, entre em contato com o autor via GitHub ou e-mail cadastrado.
 
